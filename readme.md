@@ -36,3 +36,22 @@ En allant de 1 à 100 avec un pas de 15, afficher le message **On tient le bon b
 
 ##Exercice 8
 En allant de 200 à 0 avec un pas de 12, afficher le message **Enfin !!!!**.
+
+
+
+
+https://rawgit.com/sylvain66/php-exercises-boucles/master/boucleexo1.php
+
+https://rawgit.com/sylvain66/php-exercises-boucles/master/boucleexo2.php
+
+https://rawgit.com/sylvain66/php-exercises-boucles/master/boucleexo3.php
+
+https://rawgit.com/sylvain66/php-exercises-boucles/master/boucleexo4.php
+
+https://rawgit.com/sylvain66/php-exercises-boucles/master/boucleexo5.php
+
+https://rawgit.com/sylvain66/php-exercises-boucles/master/boucleexo6.php
+
+https://rawgit.com/sylvain66/php-exercises-boucles/master/boucleexo7.php
+
+https://rawgit.com/sylvain66/php-exercises-boucles/master/boucleexo8.php
